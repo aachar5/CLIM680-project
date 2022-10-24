@@ -16,9 +16,13 @@ And, I will be using the geo registration data of this dataset which provides th
 
 ## PROPOSED ANALYSIS
 I plan to use the data sets above to conduct the following analysis:
+
 Calculate annual mean, climatology and anomalies of the emissions for the given species
+
 Calculate composites based on Air quality Index
+
 Compare the emissions plots of remaining species with PM2.5 mainly to see the responses of increase or reduction of SO2, NO2 emission on the PM2.5 concentration. Maybe with a regression analysis
+
 Calculate the anomaly in emission of PM2.5
 
 
