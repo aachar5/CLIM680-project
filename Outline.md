@@ -2,3 +2,9 @@
 
 ### Aasma Acharya
 ### CLIM 680
+
+## INTRODUCTION
+## DATA
+## PROPOSED ANALYSIS
+## CONDA ENVIRONMENT
+                      
