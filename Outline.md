@@ -1,4 +1,4 @@
 # TITLE OF THE PROJECT
 
-## Aasma Acharya
-## CLIM 680
+### Aasma Acharya
+### CLIM 680
