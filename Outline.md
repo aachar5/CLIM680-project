@@ -24,9 +24,10 @@ Calculate the anomaly in emission of PM2.5
 
 ## Functions
 I will create a set of functions in clim_utils.py for doing common tasks used throughout my analysis, including:
-Labelling plots
-calculating climatology, anomalies and composites
-etc.
+
+a. Labelling plots
+b. calculating climatology, anomalies and composites etc.
+
 
 
 ## Conda environment
