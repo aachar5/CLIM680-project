@@ -17,7 +17,7 @@ And, I will be using the geo registration data of this dataset which provides th
 ## PROPOSED ANALYSIS
 I plan to use the data sets above to conduct the following analysis:
 
-Calculate annual mean, climatology and anomalies of the emissions for the given species
+Calculate annual mean and climatology of the emissions for the given species
 
 Calculate composites based on Air quality Index
 
